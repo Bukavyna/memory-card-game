@@ -31,7 +31,7 @@ const StopWatch = ({ start, stop }) => {
 	return (
 		<div className="stopwatch">
 			<h2 className="stopwatch-time">
-				{`${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`} {/* Відображаємо час */}
+				Time: {`${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`} {/* Відображаємо час */}
 			</h2>
 		</div>
 	);
