@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memory-catd-game/static/css/main.32c35230.css",
-    "main.js": "/memory-catd-game/static/js/main.ad14387a.js",
+    "main.js": "/memory-catd-game/static/js/main.21dc68ce.js",
     "static/media/image4.png": "/memory-catd-game/static/media/image4.b6deb0b2773cf5ff2bee.png",
     "static/media/image10.png": "/memory-catd-game/static/media/image10.65526cbfa7be2413a55a.png",
     "static/media/image5.png": "/memory-catd-game/static/media/image5.bb9bb1ddbdd197211a78.png",
@@ -9,10 +9,10 @@
     "static/media/image3.png": "/memory-catd-game/static/media/image3.486ca1c1134e50c2d8d3.png",
     "index.html": "/memory-catd-game/index.html",
     "main.32c35230.css.map": "/memory-catd-game/static/css/main.32c35230.css.map",
-    "main.ad14387a.js.map": "/memory-catd-game/static/js/main.ad14387a.js.map"
+    "main.21dc68ce.js.map": "/memory-catd-game/static/js/main.21dc68ce.js.map"
   },
   "entrypoints": [
     "static/css/main.32c35230.css",
-    "static/js/main.ad14387a.js"
+    "static/js/main.21dc68ce.js"
   ]
 }
