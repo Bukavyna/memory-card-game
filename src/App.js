@@ -3,7 +3,7 @@ import Cards from './components/cards'; // Імпортуємо компонен
 import Counter from './components/counter'; // Імпортуємо компонент Counter
 import StopWatch from './components/stopwatch'; // Імпортуємо компонент StopWatch
 
-import './app.css'; // Імпортуємо стилі
+import './App.css'; // Імпортуємо стилі
 
 function App() {
   // Визначаємо стан для лічильника ходів, запуску таймера та завершення гри
